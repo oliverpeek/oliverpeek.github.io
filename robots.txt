@@ -1,0 +1,4 @@
+# Robots welcome here.
+# @CURRENT_VIBE: Peace, love, and robots.
+User-Agent: *
+Allow: /
